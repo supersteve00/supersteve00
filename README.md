@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Teegan and I am a junior ASP.Net developer.
+
+I am currently working on a portfolio project to display my skills
+Right now I am learning how to build MVC style applications
 
 <!--
 **supersteve00/supersteve00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
